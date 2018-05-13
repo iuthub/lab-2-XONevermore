@@ -1,0 +1,36 @@
+body{
+	border: 10px solid white;
+	background-image: url("images/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+body div.content{
+border: 6px solid #FFFFFF;
+background-color: #FFFFFF;
+}
+header{
+	background-color: #A8F0F0;
+}
+.content h2{
+	font-size: 14pt;
+}
+section div.story{
+	border: 4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px; 
+	overflow: auto;
+}
+
+div.story h2 span{
+	border-bottom: 2px dashed #009097;
+}
+img{
+	float: right;
+}
+header h1, header h2{
+	text-align: right;
+}
